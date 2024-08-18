@@ -9,7 +9,7 @@
     nixpkgs-wayland.url = "github:nix-community/nixpkgs-wayland";
     nixpkgs-wayland.inputs.nixpkgs.follows = "nixpkgs-unstable";
     git-hosts = {
-      url = "https://gitlab.com/ineo6/hosts/-/raw/master/hosts?ref_type=heads";
+      url = "https://gitlab.com/ineo6/hosts/-/raw/master/hosts";
       flake = false;
     };
   };

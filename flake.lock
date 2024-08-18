@@ -60,11 +60,11 @@
       "locked": {
         "narHash": "sha256-fP3DOpJG5Ngc+Y13JnFmqM9k5iRyijAu67LmNBE6yHs=",
         "type": "file",
-        "url": "https://gitlab.com/ineo6/hosts/-/raw/master/hosts?ref_type=heads"
+        "url": "https://gitlab.com/ineo6/hosts/-/raw/master/hosts"
       },
       "original": {
         "type": "file",
-        "url": "https://gitlab.com/ineo6/hosts/-/raw/master/hosts?ref_type=heads"
+        "url": "https://gitlab.com/ineo6/hosts/-/raw/master/hosts"
       }
     },
     "home-manager": {
