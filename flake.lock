@@ -58,7 +58,7 @@
     "git-hosts": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-oATogohdv+cVHndJFqXKBb3f2+ilqMXrF+uEPMVkuCo=",
+        "narHash": "sha256-fP3DOpJG5Ngc+Y13JnFmqM9k5iRyijAu67LmNBE6yHs=",
         "type": "file",
         "url": "https://gitlab.com/ineo6/hosts/-/raw/master/hosts?ref_type=heads"
       },
