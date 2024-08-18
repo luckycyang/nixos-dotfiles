@@ -3,7 +3,7 @@ name: Backup Flake.lock
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   backup-flake-lock:
